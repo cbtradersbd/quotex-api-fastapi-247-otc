@@ -4,15 +4,15 @@
 > Designed to stream real-time price feeds, record closed M1/M5 candle histories, and power automated binary options trading bots and signal generators.
 
 [![Telegram Direct](https://img.shields.io/badge/Contact-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/YouKnowWho_am)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Docs_Live-009688?style=for-the-badge&logo=fastapi)](https://api1.api.cbtraderbd.xyz/docs)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)](https://api1.api.cbtraderbd.xyz/docs)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Docs_Live-009688?style=for-the-badge&logo=fastapi)](https://api1.api.cbtradersbd.com/docs)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)](https://api1.api.cbtradersbd.com/docs)
 [![License](https://img.shields.io/badge/License-Commercial_Source_Code-green?style=for-the-badge)](https://t.me/YouKnowWho_am)
 
 ---
 
 ## 🚀 Live API Interactive Documentation
 Check all available live endpoints and test requests directly via our Swagger UI:  
-👉 **[https://api1.api.cbtraderbd.xyz/docs](https://api1.api.cbtraderbd.xyz/docs)**
+👉 **[https://api1.api.cbtradersbd.com/docs](https://api1.api.cbtradersbd.com/docs)**
 
 ---
 
